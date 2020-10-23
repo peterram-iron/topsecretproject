@@ -7,3 +7,5 @@ print("This is going to be a great project")
 print("master is kind to us")
 
 print("no, master wants the precious")
+
+print("okay that was cool")

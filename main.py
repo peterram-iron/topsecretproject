@@ -12,3 +12,5 @@ print("no, master wants the precious")
 print("this is going to be fun, you wanna fight?")
 
 print("okay that was cool")
+
+print("this exists in the pro level only")

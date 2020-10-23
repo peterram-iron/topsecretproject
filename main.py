@@ -5,3 +5,5 @@ print("This is going to be a great project")
 # it's going to be a game changer
 
 print("master is kind to us")
+
+print("no, master wants the precious")
